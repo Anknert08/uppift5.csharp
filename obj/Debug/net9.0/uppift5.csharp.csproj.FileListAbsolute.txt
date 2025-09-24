@@ -1,0 +1,14 @@
+C:\GitHub\uppift5.csharp\bin\Debug\net9.0\uppift5.csharp.exe
+C:\GitHub\uppift5.csharp\bin\Debug\net9.0\uppift5.csharp.deps.json
+C:\GitHub\uppift5.csharp\bin\Debug\net9.0\uppift5.csharp.runtimeconfig.json
+C:\GitHub\uppift5.csharp\bin\Debug\net9.0\uppift5.csharp.dll
+C:\GitHub\uppift5.csharp\bin\Debug\net9.0\uppift5.csharp.pdb
+C:\GitHub\uppift5.csharp\obj\Debug\net9.0\uppift5.csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\uppift5.csharp\obj\Debug\net9.0\uppift5.csharp.AssemblyInfoInputs.cache
+C:\GitHub\uppift5.csharp\obj\Debug\net9.0\uppift5.csharp.AssemblyInfo.cs
+C:\GitHub\uppift5.csharp\obj\Debug\net9.0\uppift5.csharp.csproj.CoreCompileInputs.cache
+C:\GitHub\uppift5.csharp\obj\Debug\net9.0\uppift5.csharp.dll
+C:\GitHub\uppift5.csharp\obj\Debug\net9.0\refint\uppift5.csharp.dll
+C:\GitHub\uppift5.csharp\obj\Debug\net9.0\uppift5.csharp.pdb
+C:\GitHub\uppift5.csharp\obj\Debug\net9.0\uppift5.csharp.genruntimeconfig.cache
+C:\GitHub\uppift5.csharp\obj\Debug\net9.0\ref\uppift5.csharp.dll
