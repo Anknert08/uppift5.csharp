@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("uppift5.csharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d1f952f5c3162282d86ff2c0e9a246c689d2f84")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7339db2b4d7aacd5fa0af558e9d2a2ede2dec83c")]
 [assembly: System.Reflection.AssemblyProductAttribute("uppift5.csharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("uppift5.csharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
